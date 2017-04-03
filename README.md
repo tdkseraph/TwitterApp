@@ -16,7 +16,6 @@ The following **required** functionality is completed:
 - [x] Home Timeline
    - [ ] Tapping on a user image should bring up that user's profile page
 - [x] Like, tape heart icon to like and unlike
-  - **Hint** Gif heart image (https://giphy.com/gifs/twitter-10shHccb7Xfn2g)
 
 The following **optional** features are implemented:
 
@@ -48,9 +47,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/xUA7aTngUGDwfpZCWk/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/xUA7aTngUGDwfpZCWk/giphy.gif' title='Video Walkthrough' width=''/>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
