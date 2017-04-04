@@ -11,11 +11,11 @@ The following **required** functionality is completed:
    - [x] The menu should include links to your profile, the home timeline, and the mentions view.
    - [x] The menu can look similar to the example or feel free to take liberty with the UI.
 - [x] Profile page
-   - [ ] Contains the user header view
+   - [x] Contains the user header view
    - [x] Contains a section with the users basic stats: # tweets, # following, # followers
 - [x] Home Timeline
    - [ ] Tapping on a user image should bring up that user's profile page
-- [x] Like, tape heart icon to like and unlike
+   - [x] Like, tape heart icon to like and unlike
 
 The following **optional** features are implemented:
 
@@ -37,6 +37,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 - [x] Open website via link
 - [x] See gif on Timeline
+
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
   1.
@@ -47,7 +48,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/xUA7aTngUGDwfpZCWk/giphy.gif' title='Video Walkthrough' width=''/>
+<img src='https://media.giphy.com/media/3og0IwMECRxnbcdRgk/giphy.gif' title='Video Walkthrough' width=''/>
 
 
 ## Notes
@@ -56,7 +57,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [04/04/2017] [tdk Seraph]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
