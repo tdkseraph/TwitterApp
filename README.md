@@ -48,6 +48,11 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
+![](https://media.giphy.com/media/xUA7aTngUGDwfpZCWk/giphy.gif)
+
+
+![](https://media.giphy.com/media/3og0IwMECRxnbcdRgk/giphy.gif)
+
 <img src='https://media.giphy.com/media/3og0IwMECRxnbcdRgk/giphy.gif' title='Video Walkthrough' width=''/>
 
 
